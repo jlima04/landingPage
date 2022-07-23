@@ -92,3 +92,10 @@ p, a{
   text-align: center;
   font-size: 0.8rem;
 }
+
+@media screen and (max-width: 800px){
+    iframe{
+      width: 100%;
+    }
+    
+  }
