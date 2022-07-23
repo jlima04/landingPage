@@ -95,3 +95,7 @@ p, a{
     height: 100%;
   }
 }
+.disclosure{
+  text-align: center;
+  font-size: 0.8rem;
+}
