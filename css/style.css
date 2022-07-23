@@ -95,7 +95,7 @@ p, a{
 
 @media screen and (max-width: 800px){
     iframe{
-      width: 100%;
+      width: 80%;
     }
     
   }
