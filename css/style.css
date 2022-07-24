@@ -107,12 +107,3 @@ p, a{
     max-width: 640px;
     font-size: 1.5rem;
 }
- .contact-icons{
-   text-align: center;
-   justify-items: center;
-   height: 100px;
-}
-i{
-    display: block;
-   padding: 1rem;
-}
