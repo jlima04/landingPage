@@ -99,3 +99,20 @@ p, a{
     }
     
   }
+
+.contact-text{
+    text-align: center;
+    margin: 0 auto 6rem auto;
+    border-top: 0.2rem solid yellow;
+    max-width: 640px;
+    font-size: 1.5rem;
+}
+ .contact-icons{
+   text-align: center;
+   justify-items: center;
+   height: 100px;
+}
+i{
+    display: block;
+   padding: 1rem;
+}
